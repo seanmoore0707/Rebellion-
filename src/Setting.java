@@ -1,8 +1,4 @@
 /**
- * Team members:
- * Yifan Fan 962284
- * Chen(Christina) Xu 945756
- * Haonan Chen 930614
  * 
  * The Settings of the model, users can manipulate the variables here
  * to change the Settings of model simulation

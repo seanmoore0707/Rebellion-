@@ -1,8 +1,4 @@
 /**
- * Team members:
- * Yifan Fan 962284
- * Chen(Christina) Xu 945756
- * Haonan Chen 930614
  * 
  * This class represents the agents who can be 
  * active, quiet and jailed because of being active.

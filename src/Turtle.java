@@ -1,8 +1,4 @@
 /**
- * Team members:
- * Yifan Fan 962284
- * Chen(Christina) Xu 945756
- * Haonan Chen 930614
  * 
  * This class represents the turtles in the NetLogo. 
  * Agent and Cop are the child class of this class. 
